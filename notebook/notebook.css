@@ -7,3 +7,8 @@
     object-fit: cover;
     z-index: -1;
   }
+
+  .postit {
+    width: 50%;
+    height: 50%;
+  }
