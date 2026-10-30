@@ -9,9 +9,9 @@
 }
 .postit {
     position: absolute;
-    width: 30%; /* shoould be relative to the journal size i think */
-    left: 60%; /* distance from journal */
-    top: 40%;
+    width: 35%; /* shoould be relative to the journal size i think */
+    left: 55%; /* distance from journal */
+    top: 35%;
 }
 
 body {
